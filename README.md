@@ -1,6 +1,6 @@
 # D-ID-API
 
-https://www.youtube.com/watch?v=5tdUIkLB51s
+[![Video Label](http://img.youtube.com/vi/5tdUIkLB51s/0.jpg)](https://youtu.be/5tdUIkLB51s)
 
 ### 동영상 ID 생성 API
 - URL : https://api.d-id.com/talks
